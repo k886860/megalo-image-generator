@@ -30,7 +30,7 @@ Other language folders are `ko_KR/extension`, `ja_JP/extension`, and `zh_CN/exte
 
 You need a Google Cloud project with billing and Vertex AI access. Enter the **Project ID**, not the display name.
 
-![Find the Project ID](assets/gcp_01_project_id.png)
+![Find the Project ID](assets/en/gcp_01_project_id.png)
 
 The deployment may require Vertex AI, Cloud Run Admin, Cloud Build, Artifact Registry, and Service Usage APIs.
 
@@ -43,11 +43,11 @@ The deployment may require Vertex AI, Cloud Run Admin, Cloud Build, Artifact Reg
 5. Create and copy the script.
 6. Open Google Cloud Shell and run the copied script.
 
-![Run the deployment](assets/gcp_04_deploy_commands.png)
+![Run the deployment](assets/en/gcp_04_deploy_commands.png)
 
 When deployment finishes, copy the `https://` Cloud Run service URL.
 
-![Cloud Run service URL](assets/gcp_05_service_url.png)
+![Cloud Run service URL](assets/en/gcp_05_service_url.png)
 
 Paste it into the same slot's Backend URL field. The Project ID and Backend URL must belong to the same project.
 

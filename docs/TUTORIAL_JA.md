@@ -23,7 +23,7 @@ ZIPを完全に展開してから次の操作を行います。
 
 請求先とVertex AIアクセスが設定されたGoogle Cloudプロジェクトが必要です。表示名ではなく **Project ID** を使用してください。
 
-![Project IDの確認](assets/gcp_01_project_id.png)
+![Project IDの確認](assets/ja/gcp_01_project_id.png)
 
 Vertex AI、Cloud Run Admin、Cloud Build、Artifact Registry、Service Usage APIの有効化が必要になる場合があります。
 
@@ -35,11 +35,11 @@ Vertex AI、Cloud Run Admin、Cloud Build、Artifact Registry、Service Usage AP
 4. 自動再デプロイスクリプトを作成してコピーします。
 5. Google Cloud Shellでスクリプトを実行します。
 
-![デプロイコマンド](assets/gcp_04_deploy_commands.png)
+![デプロイコマンド](assets/ja/gcp_04_deploy_commands.png)
 
 完了後に表示される `https://` から始まるCloud RunサービスURLを、同じスロットのBackend URL欄へ入力します。
 
-![Cloud Run URL](assets/gcp_05_service_url.png)
+![Cloud Run URL](assets/ja/gcp_05_service_url.png)
 
 ## 5. 参照画像
 

@@ -23,7 +23,7 @@
 
 需要已连接结算账号并拥有Vertex AI访问权限的Google Cloud项目。程序中应填写 **Project ID**，而不是项目显示名称。
 
-![查找Project ID](assets/gcp_01_project_id.png)
+![查找Project ID](assets/zh-cn/gcp_01_project_id.png)
 
 部署可能需要启用Vertex AI、Cloud Run Admin、Cloud Build、Artifact Registry和Service Usage API。
 
@@ -35,11 +35,11 @@
 4. 创建并复制自动重新部署脚本。
 5. 在Google Cloud Shell中运行该脚本。
 
-![运行部署命令](assets/gcp_04_deploy_commands.png)
+![运行部署命令](assets/zh-cn/gcp_04_deploy_commands.png)
 
 部署结束后，复制以 `https://` 开头的Cloud Run服务URL，并粘贴到同一槽位的Backend URL中。
 
-![Cloud Run URL](assets/gcp_05_service_url.png)
+![Cloud Run URL](assets/zh-cn/gcp_05_service_url.png)
 
 ## 5. 参考图
 
