@@ -34,7 +34,7 @@ Do not use GitHub's automatically generated `Source code (zip)` file. That archi
 
 ## Video Tutorial
 
-Tutorial video: **Coming soon**
+Tutorial video: https://youtu.be/ZIppbRt9u2I
 
 ## Safety And Cost
 
