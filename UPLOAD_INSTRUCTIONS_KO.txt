@@ -1,0 +1,6 @@
+1. ZIP을 압축 해제합니다.
+2. GitHub 저장소에서 Add file → Upload files를 누릅니다.
+3. README.md, 네 개의 루트 TUTORIAL 파일, docs 폴더를 끌어다 놓습니다.
+4. 기존 파일 교체를 확인합니다.
+5. 커밋 메시지: Update documentation for Megalo Pro v1.43
+6. Commit changes를 누릅니다.
